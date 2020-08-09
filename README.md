@@ -1,2 +1,2 @@
 # test-app
-Parallel Calculator
+Parallel Calculator using Akka Streams
