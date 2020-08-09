@@ -38,3 +38,4 @@ project/boot
 .classpath
 .project
 .settings
+*.log
